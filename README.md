@@ -3,7 +3,7 @@
 I'm not good at programming well now, but I am going to practice hardly until access my dream🌱 <br/>
 I hope to impress people with my game. <br/>
 
-I enjoy game 'Dead by Daylight'. would you play with me?😉 <br/>
+I enjoy game 'Dead by Daylight'. Would you play with me?😉 <br/>
 
 ### Links about me
 <a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
