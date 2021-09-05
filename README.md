@@ -9,11 +9,11 @@ I hope to impress people with my game. <br/>
 <a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
 ### Skills & Studing
-Languages <br/>
+####Languages <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
-Tools <br/>
+####Tools <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
 
