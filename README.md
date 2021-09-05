@@ -1,5 +1,9 @@
 ### When you go through hardships and decide not to surrender, that is strength. — Arnold Schwarzenegger
-<img src="https://img.shields.io/badge/#FC60A8?style=flat-square&logo=Android&logoColor=white"/>
+
+### Skills & Studing
+Languages
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 <!--
 **cijang74/cijang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
