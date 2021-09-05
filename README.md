@@ -1,8 +1,10 @@
-### When you go through hardships and decide not to surrender, that is strength. — Arnold Schwarzenegger
+### "When you go through hardships and decide not to surrender, that is strength." — Arnold Schwarzenegger
+
 
 ### Skills & Studing
 Languages
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 <!--
 **cijang74/cijang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
