@@ -1,4 +1,4 @@
-### When you go through hardships and decide not to surrender, that is strength. — Arnold Schwarzenegger
+### #FC60A8 When you go through hardships and decide not to surrender, that is strength. — Arnold Schwarzenegger
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <!--
 **cijang74/cijang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
