@@ -1,6 +1,6 @@
 ### "When you go through hardships and decide not to surrender, that is strength." — Arnold Schwarzenegger
 👋Hi there! I'm a game development trainee. <br/>
-I'm not good at programming well now, but I am going to practice hardly until access my dream🌱 <br/>
+I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
 I hope to impress people with my game. <br/>
 
 I enjoy game 'Dead by Daylight'. Would you play with me?😉 <br/>
