@@ -1,13 +1,13 @@
 ### "When you go through hardships and decide not to surrender, that is strength." — Arnold Schwarzenegger
 
 ### Links about me
-<a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=Youtube&logo=YouTube&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=Instagram&logo=Instagram&logoColor=000000"/></a>
+<a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=000000"/></a>
 
 ### Skills & Studing
 Languages
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 Tools
