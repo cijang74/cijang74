@@ -2,6 +2,7 @@
 
 ### Links about me
 <a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=Youtube&logo=YouTube&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=Instagram&logo=Instagram&logoColor=000000"/></a>
 
 ### Skills & Studing
 Languages
