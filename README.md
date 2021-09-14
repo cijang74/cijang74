@@ -1,5 +1,5 @@
 ### "When you go through hardships and decide not to surrender, that is strength." — Arnold Schwarzenegger
-👋Hi there! I'm a game development . <br/>
+👋Hi there! I'm a game development student. <br/>
 I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
 I hope to impress people with my game. <br/>
 
