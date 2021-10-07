@@ -2,6 +2,7 @@
 👋Hi there! I'm a game development student. <br/>
 I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
 I hope to impress people with my game. <br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410)
 
 ### Links about me
 <a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
