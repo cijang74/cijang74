@@ -4,8 +4,6 @@ I'm not good at programming well now, but I am going to practice hardly until ac
 I hope to impress people with my game. <br/>
 
 ### Links about me
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
-
 <a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
@@ -16,8 +14,6 @@ I hope to impress people with my game. <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 #### Tools <br/>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
 
@@ -37,6 +33,8 @@ Here are some ideas to get you started:
 -->
 
  <div align="center"> <!--가운데 정렬-->
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cijang74&show_icons=true&theme=github_dark)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcijang74&count_bg=%23284E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
