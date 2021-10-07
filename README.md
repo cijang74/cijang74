@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 -->
 
  <div align="center"> <!--가운데 정렬-->
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cijang74&show_icons=true&theme=github_dark)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code07">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cijang74" height="165">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcijang74&count_bg=%23284E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
