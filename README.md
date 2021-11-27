@@ -10,7 +10,7 @@ I hope to impress people with my game. <br/>
 
 ### Skills & Studing
 #### Languages <br/>
-<img src="https://img.shields.io/badge/C Sharp-A8B9CC?style=flat-square&logo=C Sharp&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
