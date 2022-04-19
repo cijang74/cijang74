@@ -1,8 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:000000,100:FFFFFF&height=300&section=header&text=Game%20programmer%20Dream%20Tree&fontSize=55&desc=Jaehoon's GitHub" /> <br/>
+
+<p align="center">
 ### "I want to Become a Better Person" <br/>
 👋Hi there! I'm a game development student. <br/>
 I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
 I hope to impress people with my game. <br/>
+</p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcijang74&count_bg=%23284E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/cijang74)
 
 ### Links about me
