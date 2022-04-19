@@ -5,8 +5,7 @@
 👋Hi there! I'm a game development student. <br/>
 I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
 I hope to impress people with my game. <br/>
-</p>
-
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcijang74&count_bg=%23284E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/cijang74)
 
 ### Links about me
@@ -26,6 +25,8 @@ I hope to impress people with my game. <br/>
 
 <!--
 **cijang74/cijang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+
 
 Here are some ideas to get you started:
 
