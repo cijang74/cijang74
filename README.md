@@ -15,7 +15,7 @@ I hope to impress people with my game. <br/><br/>
 </p>
 
 <p align="center">
-<Strong>Studing :relaxed:</Strong> <br/>
+<Strong>Studing :relaxed:</Strong> <br/><br/>
 <Strong>Languages</Strong> <br/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
@@ -24,8 +24,10 @@ I hope to impress people with my game. <br/><br/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=C Sharp&logoColor=000000"/></a>
 </p>
 
-#### Tools <br/>
+<p align="center">
+<Strong>Tools</Strong> <br/><br/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
+</p>
 
 <!--
 **cijang74/cijang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
