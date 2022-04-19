@@ -14,13 +14,15 @@ I hope to impress people with my game. <br/><br/>
 <a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 </p>
 
-### Studing :relaxed:
-#### Languages <br/>
+<p align="center">
+<Strong>Studing :relaxed:</Strong> <br/>
+<Strong>Languages</Strong> <br/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=C Sharp&logoColor=000000"/></a>
+</p>
 
 #### Tools <br/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
