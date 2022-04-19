@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Game%20programmer%20Dream%20Tree&fontSize=50" /> <br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Game%20programmer%20Dream%20Tree&fontSize=50&type=Waving" /> <br/>
 ### "I want to Become a Better Person" <br/>
 👋Hi there! I'm a game development student. <br/>
 I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
