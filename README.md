@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code07">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cijang74" height="165">
-</p>
+<div align="center">
+<src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code07">
+<src="https://github-readme-stats.vercel.app/api?username=cijang74" height="165">
+</div>
