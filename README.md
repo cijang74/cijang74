@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:000000,100:FFFFFF&height=300&section=header&text=Game%20programmer%20Dream%20Tree&fontSize=55&desc=Jaehoon's GitHub" /> <br/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:000000,100:FFFFFF&height=300&section=header&text=Game%20Programmer%20Dream%20Tree&fontSize=55&desc=Jaehoon's GitHub" /> <br/>
 
 <p align="center">
 <Strong>"I want to Become a Better Person"</Strong> <br/>
