@@ -5,8 +5,7 @@
 👋Hi there! I'm a game development student. <br/>
 I'm not good at programming well now, but I am going to practice hardly until achieve my dream🌱 <br/>
 I hope to impress people with my game. <br/>
-  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcijang74&count_bg=%23284E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcijang74&count_bg=%23284E7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>(https://github.com/cijang74)
 </p>
 
 ### Links about me
