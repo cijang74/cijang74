@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 <p align="center">
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cijang72">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=cijang74" height="165">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cijang74)](https://github.com/anuraghazra/github-readme-stats)
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijang74" height="165">
 </p>
