@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cijang72">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=cijang74" height="165">
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijang74">
-<img src="http://mazandi.herokuapp.com/api?handle=cijang72&theme=warm"/>
+<img align='center' src="http://mazandi.herokuapp.com/api?handle=cijang72&theme=warm"/>
 </p>
