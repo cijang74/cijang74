@@ -23,7 +23,7 @@ I hope to impress people with my game. <br/><br/>
 <p align="center">
 <Strong>Tools</Strong> <br/><br/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=unrealengine&logoColor=FFFFFF"/></a>
 </p>
 
 <!--
