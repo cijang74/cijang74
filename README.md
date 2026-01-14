@@ -43,14 +43,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 <!--
+<p align="center">
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code07">
 <img align='center' src="http://mazandi.herokuapp.com/api?handle=code07&theme=warm"/>
--->
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijang74" height="220">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=cijang74" height="200">
 </p>
+-->
 
 <p align="center">
 <img align='center' src="https://github.com/user-attachments/assets/3da11846-0d93-4fd8-a914-0f5fe0471aa7">
