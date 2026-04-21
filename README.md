@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 <!--
 <img align='center' src="https://github.com/user-attachments/assets/3da11846-0d93-4fd8-a914-0f5fe0471aa7">
 -->
-<img width="962" height="962" alt="Chihiro_Fujisaki_Illustration" src="https://github.com/user-attachments/assets/ffc69bc8-9e66-471e-ab3b-1ae72d5bbe3f" />
+<img width="1200" height="545" alt="클황" src="https://github.com/user-attachments/assets/f6019f84-2c5f-4a44-bfac-68b8609ed4be" />
 </p>
