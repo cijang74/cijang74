@@ -10,8 +10,10 @@ I hope to impress people with my game. <br/><br/>
 <p align="center">
 <Strong>Links about me</Strong> <br/><br/>
 <a href="https://www.youtube.com/channel/UClyyHtaCriOfx26xjc-fidw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
+  <!--
 <a href="https://www.instagram.com/jaehoon_0408/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
-  <a href="https://cijang74.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF792F?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+  -->
+<a href="https://cijang74.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF792F?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 </p>
 
 <p align="center">
